@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={ISAWASHUN}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISAWASHUN
 )](https://github.com/anuraghazra/github-readme-stats)
