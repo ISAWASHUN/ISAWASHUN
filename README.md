@@ -5,3 +5,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISAWASHUN&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ISAWASHUN&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
