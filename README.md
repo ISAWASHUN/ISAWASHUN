@@ -1,5 +1,4 @@
-<h1 align="center">I'm ISAWA SHUN!!</h1>
-<h3 align="center">A full Stack developer from JAPAN</h3>
+<h1 align="center">ISAWA SHUN</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
