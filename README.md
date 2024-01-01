@@ -1,9 +1,9 @@
 <h1 align="left">Shun Isawa</h1>
 
-I’m SHUN ISAWA
-I works as software engineer in Japan
-I’m looking to collaborate on Any Open Source Projects as well as personal projects
-Check My Resume [Resume Link]()
+<p>I’m SHUN ISAWA</p>
+<p></p>I works as software engineer in Japan</p>
+<p></p>I’m looking to collaborate on Any Open Source Projects as well as personal projects</p>
+<p></p>Check My Resume [Resume Link]()</p>
 ### How to reach me
 - [X](https://twitter.com/dosukoi_org)
 - Gmail : isawashundesu@gmail.com
