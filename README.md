@@ -14,6 +14,7 @@
 
 ## OSS
 - first-contribution
+- traPtitech/traQ: (https://github.com/traPtitech/traQ/pull/2173)
 
 
 ## languages
