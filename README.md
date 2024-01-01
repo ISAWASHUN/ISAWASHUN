@@ -13,7 +13,7 @@
 
 
 ## OSS
-- first-contribution
+- first-contribution: (https://github.com/firstcontributions/first-contributions/pull/78748)
 - traPtitech/traQ: (https://github.com/traPtitech/traQ/pull/2173)
 
 
