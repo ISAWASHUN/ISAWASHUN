@@ -1,7 +1,7 @@
 <h1 align="left">Shun Isawa</h1>
 
 <p>I’m SHUN ISAWA</p>
-<p></p>I works as software engineer in Japan</p>
+<p></p>I works as a software engineer in Japan</p>
 <p></p>I’m looking to collaborate on Any Open Source Projects as well as personal projects</p>
 <p></p>Check My Resume [Resume Link]()</p>
 
