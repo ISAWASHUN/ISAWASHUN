@@ -11,6 +11,10 @@
 
 ## My Portfolio
 
+## Tech Aeticles
+
+- Zenn: (https://zenn.dev/isawa)
+- Qiita: (https://qiita.com/dosukoi_org)
 
 ## OSS
 - first-contribution: (https://github.com/firstcontributions/first-contributions/pull/78748)
