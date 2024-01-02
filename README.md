@@ -37,4 +37,4 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 ## Skills
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={Dosukoi}&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={ISAWASHUN}&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
