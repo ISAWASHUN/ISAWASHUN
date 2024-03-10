@@ -16,12 +16,12 @@
 
 ## Tech Aeticles
 
-- Zenn: (https://zenn.dev/isawa)
-- Qiita: (https://qiita.com/dosukoi_org)
+- [Zenn](https://zenn.dev/isawa)
+- [Qiita](https://qiita.com/dosukoi_org)
 
 ## OSS
-- first-contribution: (https://github.com/firstcontributions/first-contributions/pull/78748)
-- traPtitech/traQ: (https://github.com/traPtitech/traQ/pull/2173)
+- [first-contribution](https://github.com/firstcontributions/first-contributions/pull/78748)
+- [traPtitech/traQ](https://github.com/traPtitech/traQ/pull/2173)
 
 
 ## languages
