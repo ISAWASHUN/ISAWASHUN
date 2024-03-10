@@ -12,7 +12,7 @@
 ## My Portfolio
 
 - [My Portfolio site](https://my-portfolio-drab-pi.vercel.app)
-- [MY Portfolio] ()
+- [Portfolio](https://github.com/ISAWASHUN/portfolio)
 
 ## Tech Aeticles
 
