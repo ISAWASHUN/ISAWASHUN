@@ -7,7 +7,8 @@
 
 ### How to reach me
 - [X](https://twitter.com/dosukoi_org)
-- Gmail : isawashundesu@gmail.com
+- [Gmail](isawashundesu@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shun-isawa-81b17a297/)
 
 ## My Portfolio
 
