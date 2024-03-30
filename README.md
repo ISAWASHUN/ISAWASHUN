@@ -22,7 +22,7 @@
 ## OSS
 - [first-contribution](https://github.com/firstcontributions/first-contributions/pull/78748)
 - [traPtitech/traQ](https://github.com/traPtitech/traQ/pull/2173)
-
+- [yamada-ui](https://github.com/yamada-ui/yamada-ui/pull/1106)
 
 ## languages
 
