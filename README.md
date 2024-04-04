@@ -6,7 +6,6 @@
 <p></p>Check My Resume [Resume Link]()</p>
 
 ### How to reach me
-- [X](https://twitter.com/dosukoi_org)
 - [Gmail](isawashundesu@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shun-isawa-81b17a297/)
 
